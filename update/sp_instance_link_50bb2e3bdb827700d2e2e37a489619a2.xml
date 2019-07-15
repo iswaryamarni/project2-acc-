@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>success</color>
+        <css/>
+        <glyph>user</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>2</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">26076ef3db827700d2e2e37a489619ff</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>isu</sys_created_by>
+        <sys_created_on>2019-06-22 05:00:14</sys_created_on>
+        <sys_id>50bb2e3bdb827700d2e2e37a489619a2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>signup</sys_name>
+        <sys_package display_value="project2" source="x_331821_project2">89eaec13db8af300d2e2e37a48961908</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="project2">89eaec13db8af300d2e2e37a48961908</sys_scope>
+        <sys_update_name>sp_instance_link_50bb2e3bdb827700d2e2e37a489619a2</sys_update_name>
+        <sys_updated_by>isu</sys_updated_by>
+        <sys_updated_on>2019-06-22 05:07:46</sys_updated_on>
+        <title>signup</title>
+        <type>url</type>
+        <url>https://dev84459.service-now.com.do</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=50bb2e3bdb827700d2e2e37a489619a2"/>
+</record_update>

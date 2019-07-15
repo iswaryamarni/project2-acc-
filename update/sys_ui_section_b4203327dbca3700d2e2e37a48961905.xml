@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="OFFICIAL ACCESS" section_id="b4203327dbca3700d2e2e37a48961905" sys_domain="global" table="x_331821_project2_accident" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_5</element>
+            <position>0</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-21 16:27:58</sys_created_on>
+            <sys_id>708fb76fdbca3700d2e2e37a48961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="OFFICIAL ACCESS" display_value="OFFICIAL ACCESS" name="x_331821_project2_accident" sys_domain="global" view="Default view">b4203327dbca3700d2e2e37a48961905</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-21 16:27:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_6</element>
+            <position>1</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-21 16:27:58</sys_created_on>
+            <sys_id>f08fb76fdbca3700d2e2e37a48961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="OFFICIAL ACCESS" display_value="OFFICIAL ACCESS" name="x_331821_project2_accident" sys_domain="global" view="Default view">b4203327dbca3700d2e2e37a48961905</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-21 16:27:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>OFFICIAL ACCESS</caption>
+            <header>false</header>
+            <name>x_331821_project2_accident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-21 15:20:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b4203327dbca3700d2e2e37a48961905</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>OFFICIAL ACCESS</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="project2" source="x_331821_project2">89eaec13db8af300d2e2e37a48961908</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="project2">89eaec13db8af300d2e2e37a48961908</sys_scope>
+            <sys_update_name>sys_ui_section_b4203327dbca3700d2e2e37a48961905</sys_update_name>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-21 15:24:48</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

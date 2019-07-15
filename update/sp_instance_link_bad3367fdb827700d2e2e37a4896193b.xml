@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>music</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">55c332bfdb827700d2e2e37a489619c8</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>isu</sys_created_by>
+        <sys_created_on>2019-06-22 05:35:54</sys_created_on>
+        <sys_id>bad3367fdb827700d2e2e37a4896193b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>My music!</sys_name>
+        <sys_package display_value="project2" source="x_331821_project2">89eaec13db8af300d2e2e37a48961908</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="project2">89eaec13db8af300d2e2e37a48961908</sys_scope>
+        <sys_update_name>sp_instance_link_bad3367fdb827700d2e2e37a4896193b</sys_update_name>
+        <sys_updated_by>isu</sys_updated_by>
+        <sys_updated_on>2019-06-22 05:39:21</sys_updated_on>
+        <title>My music!</title>
+        <type>page</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=bad3367fdb827700d2e2e37a4896193b"/>
+</record_update>

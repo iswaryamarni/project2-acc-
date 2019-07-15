@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>policest</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>policest</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">2dc855b47420330078509adcc48c8789</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>isu</sys_created_by>
+        <sys_created_on>2019-06-20 06:38:22</sys_created_on>
+        <sys_id>26fee457db8af300d2e2e37a4896199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>policest</sys_name>
+        <sys_package display_value="project2" source="x_331821_project2">89eaec13db8af300d2e2e37a48961908</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="project2">89eaec13db8af300d2e2e37a48961908</sys_scope>
+        <sys_update_name>sys_wizard_answer_26fee457db8af300d2e2e37a4896199c</sys_update_name>
+        <sys_updated_by>isu</sys_updated_by>
+        <sys_updated_on>2019-06-20 06:38:22</sys_updated_on>
+        <table/>
+        <target_url>x_331821_project2_policest.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

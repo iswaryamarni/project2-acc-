@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>u_string_6</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>upwd</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+	 var x=  g_form.getValue('u_string_5');
+    var y=  g_form.getValue('u_string_6');
+	
+	if(x=='isu'&& y=='123' )
+	   {
+		   g_form.setSectionDisplay('patient_details',true);
+	   }
+	else if(x==' ' && y==' '){
+		g_form.setSectionDisplay('patient_details',false);   
+	}
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>isu</sys_created_by>
+        <sys_created_on>2019-06-21 16:19:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4f5af3abdbca3700d2e2e37a48961935</sys_id>
+        <sys_mod_count>30</sys_mod_count>
+        <sys_name>upwd</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="project2" source="x_331821_project2">89eaec13db8af300d2e2e37a48961908</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="project2">89eaec13db8af300d2e2e37a48961908</sys_scope>
+        <sys_update_name>sys_script_client_4f5af3abdbca3700d2e2e37a48961935</sys_update_name>
+        <sys_updated_by>isu</sys_updated_by>
+        <sys_updated_on>2019-06-22 08:39:49</sys_updated_on>
+        <table>x_331821_project2_accident</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

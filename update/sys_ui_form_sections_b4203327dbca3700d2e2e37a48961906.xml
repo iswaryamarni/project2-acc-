@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="b4203327dbca3700d2e2e37a48961906" sys_domain="global" table="x_331821_project2_accident" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-21 15:20:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0d203327dbca3700d2e2e37a48961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_331821_project2_accident" name="x_331821_project2_accident" sys_domain="global" view="Default view">b4203327dbca3700d2e2e37a48961906</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_331821_project2_accident" sys_domain="global" view="Default view">9a5be493db8af300d2e2e37a489619aa</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-21 15:20:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-21 15:20:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cd203327dbca3700d2e2e37a489619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_331821_project2_accident" name="x_331821_project2_accident" sys_domain="global" view="Default view">b4203327dbca3700d2e2e37a48961906</sys_ui_form>
+            <sys_ui_section caption="OFFICIAL ACCESS" display_value="OFFICIAL ACCESS" name="x_331821_project2_accident" sys_domain="global" view="Default view">b4203327dbca3700d2e2e37a48961905</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-21 15:20:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-21 16:27:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>608f776fdbca3700d2e2e37a48961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_331821_project2_accident" name="x_331821_project2_accident" sys_domain="global" view="Default view">b4203327dbca3700d2e2e37a48961906</sys_ui_form>
+            <sys_ui_section caption="PATIENT DETAILS" display_value="PATIENT DETAILS" name="x_331821_project2_accident" sys_domain="global" view="Default view">288f776fdbca3700d2e2e37a4896197f</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-21 16:27:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_331821_project2_accident</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-21 15:20:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b4203327dbca3700d2e2e37a48961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_331821_project2_accident</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="project2" source="x_331821_project2">89eaec13db8af300d2e2e37a48961908</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="project2">89eaec13db8af300d2e2e37a48961908</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b4203327dbca3700d2e2e37a48961906</sys_update_name>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-21 15:20:48</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

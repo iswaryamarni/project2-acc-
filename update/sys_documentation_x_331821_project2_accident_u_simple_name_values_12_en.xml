@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_simple_name_values_12" label="company n id" language="en" table="x_331821_project2_accident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_simple_name_values_12</element>
+            <help/>
+            <hint/>
+            <label>company n id</label>
+            <language>en</language>
+            <name>x_331821_project2_accident</name>
+            <plural>company n ids</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-21 16:27:57</sys_created_on>
+            <sys_id>2c8f776fdbca3700d2e2e37a489619ea</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>company n id</sys_name>
+            <sys_package display_value="project2" source="x_331821_project2">89eaec13db8af300d2e2e37a48961908</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="project2">89eaec13db8af300d2e2e37a48961908</sys_scope>
+            <sys_update_name>sys_documentation_x_331821_project2_accident_u_simple_name_values_12_en</sys_update_name>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-22 08:48:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

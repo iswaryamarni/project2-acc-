@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="familymebersdetails" max_length="40" name="x_331821_project2_familymebersdetails" type="collection">
+        <element label="Aadhar number" max_length="40" name="aadharno" type="string"/>
+        <element label="email" max_length="40" name="email" type="string"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+        <element label="phoneno" max_length="40" name="phoneno" type="string"/>
+        <element label="company n id" max_length="4000" name="u_simple_name_values_2" type="simple_name_values"/>
+        <element attributes="edge_encryption_enabled=true" label="PAN" max_length="40" name="u_string_1" type="string"/>
+    </element>
+</database>
